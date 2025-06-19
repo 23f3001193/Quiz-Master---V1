@@ -1,9 +1,8 @@
 # Quiz Master App
 
 ## Author
-**Name:** Krish Gupta  
-**Roll Number:** 23f2000792  
-**Email:** 23f2000792@ds.study.iitm.ac.in  
+**Name:** Prajwal
+**Roll Number:** 23f3001193 
 **Institution:** IIT Madras, BS in Data Science and Applications
 
 ---
@@ -131,8 +130,7 @@ Quiz Master is a web-based quiz management system that enables admins to create 
 
 ---
 
-## Video Demo
-[Watch the demo](https://drive.google.com/file/d/1EPTSk8-kr3WE4P67ro96SJKSxQssohUE/view?usp=sharing)
+
 
 ---
 
